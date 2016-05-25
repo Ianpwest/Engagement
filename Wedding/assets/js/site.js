@@ -84,7 +84,7 @@ $(function() {
 
 	if ($("#countdown").length) {
 		$("#countdown").countdown({
-			until : new Date(2020, 6-1, 19)
+			until : new Date(2016, 7-1, 23)
 			//A note on Date - the JavaScript Date constructor expects the year, month, and day as parameters. However, 
 			//the month ranges from 0 to 11. To make explicit what date is intended (does a month of 3 mean March or April?) 
 			//I specify the month from 1 to 12 and manually subtract the 1. Thus the following denotes 25 December, 2014.

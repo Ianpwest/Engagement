@@ -25,7 +25,7 @@
 	text-align: center;
 	padding: 45px 20px 55px;
 	position: absolute;
-	bottom: 122px;
+	bottom: 600px;
 	right: 0;
 	left: 0px;
 }
@@ -124,7 +124,7 @@
     margin: 0 auto;
     position: absolute;
     right: 0;
-    top: 15.3%;
+    top: 15%;
     z-index: 999;
 }
 .jack {
