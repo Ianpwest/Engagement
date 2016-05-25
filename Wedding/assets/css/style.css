@@ -297,7 +297,7 @@
 	position: relative;
 }
 .time-line-divider {
-	width: 1px;
+	width: 2px;
 	height: 100%;
 	background: #f3d5af;
 	left: 50%;
@@ -359,7 +359,7 @@
 }
 .arrow-cls {
 	background: #c5e0dc;
-	padding: 8px 15px;
+	padding: 0px 15px;
 	display: inline-block;
 	color: #555555;
 	position: relative;
