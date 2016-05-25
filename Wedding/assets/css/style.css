@@ -714,7 +714,7 @@
 }
 .para-wrapper {
 	background: #fff;
-	padding: 45px 31px;
+	padding: 10px 10px;
 }
 .quoto {
 	margin: 0 15px;
@@ -737,9 +737,9 @@
 	font-weight: 500;
 }
 .friend-wishes {
-	padding-top: 110px;
+	padding-top: 10px;
 	background: #f9f9f4;
-	padding-bottom: 136px;
+	padding-bottom: 36px;
 }
 .quoto .overlay figure {
 	float: left;
@@ -786,7 +786,7 @@
 }
 .touch span {
 	font-size: 36px;
-	font-family: "playfair display";
+	font-family: "Roboto";
 	font-style: italic;
 	color: #757575;
 	float: left;
@@ -845,7 +845,7 @@
 	background: rgba(0,0,0,0.8);
 }
 .attending-class {
-	background: url('../images/email-banner.jpg') no-repeat top right;
+	background: url('/Pictures/Artisan.jpg') no-repeat top right;
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: auto;

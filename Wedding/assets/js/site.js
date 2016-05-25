@@ -21,8 +21,8 @@ $(function() {
 	});
 	
 	$("#people-thought").owlCarousel({
-		autoPlay : 3000, 
-		items : 3,
+		autoPlay : 6000, 
+		items : 2,
 		itemsDesktop : [1199, 3],
 		itemsDesktopSmall : [979, 3],
 		itemsTablet : [768, 3],
