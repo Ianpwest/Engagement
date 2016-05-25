@@ -425,7 +425,6 @@
 }
 .met-section {
 	margin-bottom: 95px;
-	text-transform: capitalize;
 }
 .event-description h3{
 	position: relative;
@@ -713,7 +712,7 @@
 	padding-top: 40px;
 }
 .para-wrapper {
-	background: #fff;
+	background: seashell;
 	padding: 10px 10px;
 }
 .quoto {
@@ -860,7 +859,7 @@
 	background-repeat: no-repeat;
 }
 .wedding-gift {
-	padding-top: 110px;
+	
 }
 .wedding-gift .header-center {
 	margin: 0 0 30px;

@@ -429,9 +429,12 @@
     <Content Include="Pictures\GalleryPictures\pic %2897%29.jpg" />
     <Content Include="Pictures\GalleryPictures\pic %2898%29.jpg" />
     <Content Include="Pictures\GalleryPictures\pic %2899%29.jpg" />
+    <Content Include="Pictures\GoogleWallet.png" />
     <Content Include="Pictures\IanLooking.jpg" />
+    <Content Include="Pictures\PayPalLogo.png" />
     <Content Include="Pictures\Ring1.jpg" />
     <Content Include="Pictures\Santorini.jpg" />
+    <Content Include="Pictures\TargetLogo.png" />
     <Content Include="Pictures\Waterfall1.jpg" />
     <Content Include="Pictures\Overlook1.jpg" />
     <Content Include="Scripts\Ajax.js" />

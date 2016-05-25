@@ -30,15 +30,6 @@ $(function() {
 		navigation : true
 	});
 	
-	$("#wedding-item").owlCarousel({
-		autoPlay : false,
-		items : 3,
-		itemsDesktop : [1199, 3],
-		itemsDesktopSmall : [979, 3],
-		itemsTablet : [768, 3],
-		itemsMobile : [767, 1],
-		navigation : true
-	});
 
 	$("#partner-slider").owlCarousel({
 		autoPlay : false,
