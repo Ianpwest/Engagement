@@ -477,6 +477,8 @@
     <Content Include="App_Data\Configuration.config" />
     <None Include="Project_Readme.html" />
     <Content Include="Views\Home\_MessagePartial.cshtml" />
+    <None Include="Properties\PublishProfiles\WestonMungerAnnouncement - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\WestonMungerAnnouncement - Web Deploy.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

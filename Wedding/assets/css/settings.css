@@ -109,7 +109,8 @@ website:   	http://www.themepunch.com
 
 
 .rev_slider{
-	position:relative;
+    height:0 !important;
+	/*position:relative;*/
 	overflow:visible;
 }
 
@@ -117,6 +118,7 @@ website:   	http://www.themepunch.com
 
 .tp-simpleresponsive img,
 .rev_slider img{
+    height:none !important;
 	max-width:none !important;
 	-moz-transition: none 0;
 	-webkit-transition: none 0;
