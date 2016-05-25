@@ -35,11 +35,11 @@ namespace Wedding.Controllers
         public ActionResult SaveRSVP(string name, string email, string guestCount, string notes)
         {
             var fromAddress = new MailAddress("ian.p.weston@gmail.com", "Engagement Web Site *Do Not Reply*");
-            //var toAddress = new MailAddress("caitlyn.b.munger@gmail.com", "Caitlyn");
-            var toAddress = new MailAddress("ian.p.weston@gmail.com", "Caitlyn");
-            string fromPassword = "Soultosqueeze";
+            var toAddress = new MailAddress("caitlyn.b.munger@gmail.com", "Caitlyn");
+            //var toAddress = new MailAddress("ian.p.weston@gmail.com", "Caitlyn");
+            string fromPassword = "uzkatkfjsvomeyfv";
             string subject = "Engagement RSVP **Do not reply**";
-            string body = name + "/r/n" + email + "/r/n" + guestCount + "/r/n" + notes;
+            string body = name + "\r\n" + email + "\r\n" + guestCount + "\r\n" + notes;
 
             try
             {
