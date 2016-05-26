@@ -72,7 +72,15 @@ function SubmitRSVP()
 
     function funcPass(data) {
         if (data.bSuccess) {
-            $("#btnSubmitRSVP").val("Thanks!");
+
+            $("#nameRSVP").val("");
+            $("#rsvpMail").val("");
+            $("#rsvpGuest").val("");
+            $("#rsvpNotes").val("");
+
+            alert('Thanks! See you soon');
+            $("#attendingInput").html("See you soon!");
+            $("#btnSubmitRSVP").html("Thanks!");
         }
     }
 
